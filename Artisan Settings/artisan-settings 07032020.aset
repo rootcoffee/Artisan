@@ -8,7 +8,7 @@ backgroundReproduceBeep=false
 backgroundPlaybackEvents=false
 backgroundPlaybackDROP=false
 replayType=0
-Phases=156, 175, 208, 220
+Phases=156, 170, 208, 220
 phasesbuttonflag=false
 phasesfromBackgroundflag=false
 watermarks=true
@@ -73,7 +73,7 @@ ETlcd=true
 BTlcd=true
 swaplcds=false
 profilepath=C:/Users/Chespi/Dropbox/1 RCH - Socios/Roasting/Artisan Settings/
-settingspath=C:/Users/Chespi/Dropbox/1 RCH - Socios/Roasting/Artisan Settings/artisan-settings - config topacio.aset
+settingspath=C:/Users/Chespi/Dropbox/1 RCH - Socios/Roasting/Artisan Settings/artisan-settings 07032020.aset
 wheelpath=
 autosavepath=C:/Users/RCH/Dropbox/RCH - Socios/Roasting/Artisan Roast Reports
 externalprogram=test.py
@@ -90,7 +90,7 @@ plotcurvecolor=black, black, black, black, black, black, black, black, black
 autosaveflag=1
 autosavepdf=true
 autosaveimageformat=PDF
-autosaveprefix=CAPUCAS
+autosaveprefix=TOPACIO
 LargeLCDs=false
 LargeDeltaLCDs=false
 LargePIDLCDs=false
@@ -101,7 +101,7 @@ roastpropertiesAutoOpenFlag=0
 customflavorlabels=Acidity, Aftertaste, Clean Cup, Head, Fragrance, Sweetness, Aroma, Balance, Body
 appearance=windowsvista
 dpi=100
-recentRoasts="@Variant(\0\0\0\t\0\0\0\x1\0\0\0\b\0\0\0\x17\0\0\0\x14\0w\0\x65\0i\0g\0h\0t\0U\0n\0i\0t\0\0\0\n\0\0\0\x2\0g\0\0\0\x10\0w\0\x65\0i\0g\0h\0t\0I\0n\0\0\0\x6@\x8c \0\0\0\0\0\0\0\0\x14\0v\0o\0l\0u\0m\0\x65\0U\0n\0i\0t\0\0\0\n\0\0\0\x2\0l\0\0\0\x10\0v\0o\0l\0u\0m\0\x65\0I\0n\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\n\0t\0i\0t\0l\0\x65\0\0\0\n\0\0\0\x18\0\x43\0\x61\0p\0u\0\x63\0\x61\0s\0 \0R\0O\0O\0T\0\0\0\x12\0r\0o\0\x61\0s\0t\0U\0U\0I\0\x44\0\0\0\0\xff\xff\xff\xff\0\0\0 \0p\0l\0u\0s\0_\0s\0t\0o\0r\0\x65\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x14\0p\0l\0u\0s\0_\0s\0t\0o\0r\0\x65\0\0\0\0\xff\xff\xff\xff\0\0\0\"\0p\0l\0u\0s\0_\0\x63\0o\0\x66\0\x66\0\x65\0\x65\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x16\0p\0l\0u\0s\0_\0\x63\0o\0\x66\0\x66\0\x65\0\x65\0\0\0\0\xff\xff\xff\xff\0\0\0,\0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0s\0p\0\x65\0\x63\0_\0l\0\x61\0\x62\0\x65\0l\0s\0\0\0\0\xff\xff\xff\xff\0\0\0\x1e\0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0s\0p\0\x65\0\x63\0\0\0\0\xff\xff\xff\xff\0\0\0 \0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x18\0p\0l\0u\0s\0_\0\x61\0\x63\0\x63\0o\0u\0n\0t\0\0\0\0\xff\xff\xff\xff\0\0\0\x1a\0m\0o\0i\0s\0t\0u\0r\0\x65\0G\0r\0\x65\0\x65\0n\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\x1a\0\x64\0\x65\0n\0s\0i\0t\0y\0W\0\x65\0i\0g\0h\0t\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\x16\0\x63\0o\0l\0o\0r\0S\0y\0s\0t\0\x65\0m\0\0\0\x2\0\0\0\0\0\0\0\n\0\x62\0\x65\0\x61\0n\0s\0\0\0\n\0\0\0|\0\x31\0\x30\0\x30\0%\0 \0\x43\0\x61\0p\0u\0\x63\0\x61\0s\0,\0 \0H\0o\0n\0\x64\0u\0r\0\x61\0s\0.\0 \0\n\0P\0r\0o\0\x64\0u\0\x63\0t\0o\0r\0:\0 \0\x43\0O\0\x43\0\x41\0\x46\0\x43\0\x41\0L\0\n\0P\0r\0o\0v\0\x65\0\x65\0\x64\0o\0r\0:\0 \0\x43\0\x61\0\x66\0\x65\0 \0Z\0\0\0\x18\0\x62\0\x65\0\x61\0n\0S\0i\0z\0\x65\0_\0m\0i\0n\0\0\0\x2\0\0\0\0\0\0\0\x18\0\x62\0\x65\0\x61\0n\0S\0i\0z\0\x65\0_\0m\0\x61\0x\0\0\0\x2\0\0\0\0\0\0\0\x16\0\x62\0\x61\0t\0\x63\0h\0p\0r\0\x65\0\x66\0i\0x\0\0\0\n\0\0\0\xe\0\x43\0\x41\0P\0U\0\x43\0\x41\0S\0\0\0\xe\0\x62\0\x61\0t\0\x63\0h\0n\0r\0\0\0\x2\0\0\0\0\0\0\0\x14\0\x62\0\x61\0\x63\0k\0g\0r\0o\0u\0n\0\x64\0\0\0\0\xff\xff\xff\xff)"
+recentRoasts="@Variant(\0\0\0\b\0\0\0\x17\0\0\0\x14\0w\0\x65\0i\0g\0h\0t\0U\0n\0i\0t\0\0\0\n\0\0\0\x2\0g\0\0\0\x10\0w\0\x65\0i\0g\0h\0t\0I\0n\0\0\0\x6@\x8f@\0\0\0\0\0\0\0\0\x14\0v\0o\0l\0u\0m\0\x65\0U\0n\0i\0t\0\0\0\n\0\0\0\x2\0l\0\0\0\x10\0v\0o\0l\0u\0m\0\x65\0I\0n\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\n\0t\0i\0t\0l\0\x65\0\0\0\n\0\0\0\x1c\0\x42\0r\0\x61\0s\0i\0l\0 \0T\0o\0p\0\x61\0\x63\0i\0o\0\0\0\x12\0r\0o\0\x61\0s\0t\0U\0U\0I\0\x44\0\0\0\n\0\0\0@\0\x66\0\x31\0\x65\0\x35\0\x65\0\x35\0\x61\0\x66\0\x32\0\x66\0\x65\0\x61\0\x34\0\x39\0\x66\0\x33\0\x61\0\x61\0\x32\0\x32\0\x35\0\x35\0\x37\0\x32\0\x36\0\x34\0\x63\0\x62\0\x39\0\x30\0\x32\0\x32\0\0\0 \0p\0l\0u\0s\0_\0s\0t\0o\0r\0\x65\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x14\0p\0l\0u\0s\0_\0s\0t\0o\0r\0\x65\0\0\0\0\xff\xff\xff\xff\0\0\0\"\0p\0l\0u\0s\0_\0\x63\0o\0\x66\0\x66\0\x65\0\x65\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x16\0p\0l\0u\0s\0_\0\x63\0o\0\x66\0\x66\0\x65\0\x65\0\0\0\0\xff\xff\xff\xff\0\0\0,\0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0s\0p\0\x65\0\x63\0_\0l\0\x61\0\x62\0\x65\0l\0s\0\0\0\0\xff\xff\xff\xff\0\0\0\x1e\0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0s\0p\0\x65\0\x63\0\0\0\0\xff\xff\xff\xff\0\0\0 \0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x18\0p\0l\0u\0s\0_\0\x61\0\x63\0\x63\0o\0u\0n\0t\0\0\0\0\xff\xff\xff\xff\0\0\0\x1a\0m\0o\0i\0s\0t\0u\0r\0\x65\0G\0r\0\x65\0\x65\0n\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\x1a\0\x64\0\x65\0n\0s\0i\0t\0y\0W\0\x65\0i\0g\0h\0t\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\x16\0\x63\0o\0l\0o\0r\0S\0y\0s\0t\0\x65\0m\0\0\0\x2\0\0\0\0\0\0\0\n\0\x62\0\x65\0\x61\0n\0s\0\0\0\n\0\0\0\0\0\0\0\x18\0\x62\0\x65\0\x61\0n\0S\0i\0z\0\x65\0_\0m\0i\0n\0\0\0\x2\0\0\0\0\0\0\0\x18\0\x62\0\x65\0\x61\0n\0S\0i\0z\0\x65\0_\0m\0\x61\0x\0\0\0\x2\0\0\0\0\0\0\0\x16\0\x62\0\x61\0t\0\x63\0h\0p\0r\0\x65\0\x66\0i\0x\0\0\0\n\0\0\0\x16\0R\0\x43\0R\0 \0P\0r\0o\0\x66\0i\0l\0\x65\0\0\0\xe\0\x62\0\x61\0t\0\x63\0h\0n\0r\0\0\0\x2\0\0\0\x5\0\0\0\x14\0\x62\0\x61\0\x63\0k\0g\0r\0o\0u\0n\0\x64\0\0\0\n\0\0\0\xe4\0\x43\0:\0/\0U\0s\0\x65\0r\0s\0/\0\x43\0h\0\x65\0s\0p\0i\0/\0\x44\0r\0o\0p\0\x62\0o\0x\0/\0\x31\0 \0R\0\x43\0H\0 \0-\0 \0S\0o\0\x63\0i\0o\0s\0/\0R\0o\0\x61\0s\0t\0i\0n\0g\0/\0R\0O\0O\0T\0 \0R\0o\0\x61\0s\0t\0i\0n\0g\0 \0P\0r\0o\0\x66\0i\0l\0\x65\0s\0/\0T\0o\0p\0\x61\0\x63\0i\0o\0 \0\x32\0\x30\0\x32\0\x30\0 \0\x45\0s\0p\0r\0\x65\0s\0s\0o\0 \0R\0o\0\x61\0s\0t\0i\0n\0g\0 \0P\0r\0o\0\x66\0i\0l\0\x65\0.\0\x61\0l\0o\0g)", "@Variant(\0\0\0\b\0\0\0\x17\0\0\0\x14\0w\0\x65\0i\0g\0h\0t\0U\0n\0i\0t\0\0\0\n\0\0\0\x2\0g\0\0\0\x10\0w\0\x65\0i\0g\0h\0t\0I\0n\0\0\0\x6@\x8c \0\0\0\0\0\0\0\0\x14\0v\0o\0l\0u\0m\0\x65\0U\0n\0i\0t\0\0\0\n\0\0\0\x2\0l\0\0\0\x10\0v\0o\0l\0u\0m\0\x65\0I\0n\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\n\0t\0i\0t\0l\0\x65\0\0\0\n\0\0\0\x18\0\x43\0\x61\0p\0u\0\x63\0\x61\0s\0 \0R\0O\0O\0T\0\0\0\x12\0r\0o\0\x61\0s\0t\0U\0U\0I\0\x44\0\0\0\0\xff\xff\xff\xff\0\0\0 \0p\0l\0u\0s\0_\0s\0t\0o\0r\0\x65\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x14\0p\0l\0u\0s\0_\0s\0t\0o\0r\0\x65\0\0\0\0\xff\xff\xff\xff\0\0\0\"\0p\0l\0u\0s\0_\0\x63\0o\0\x66\0\x66\0\x65\0\x65\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x16\0p\0l\0u\0s\0_\0\x63\0o\0\x66\0\x66\0\x65\0\x65\0\0\0\0\xff\xff\xff\xff\0\0\0,\0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0s\0p\0\x65\0\x63\0_\0l\0\x61\0\x62\0\x65\0l\0s\0\0\0\0\xff\xff\xff\xff\0\0\0\x1e\0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0s\0p\0\x65\0\x63\0\0\0\0\xff\xff\xff\xff\0\0\0 \0p\0l\0u\0s\0_\0\x62\0l\0\x65\0n\0\x64\0_\0l\0\x61\0\x62\0\x65\0l\0\0\0\0\xff\xff\xff\xff\0\0\0\x18\0p\0l\0u\0s\0_\0\x61\0\x63\0\x63\0o\0u\0n\0t\0\0\0\0\xff\xff\xff\xff\0\0\0\x1a\0m\0o\0i\0s\0t\0u\0r\0\x65\0G\0r\0\x65\0\x65\0n\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\x1a\0\x64\0\x65\0n\0s\0i\0t\0y\0W\0\x65\0i\0g\0h\0t\0\0\0\x6\0\0\0\0\0\0\0\0\0\0\0\x16\0\x63\0o\0l\0o\0r\0S\0y\0s\0t\0\x65\0m\0\0\0\x2\0\0\0\0\0\0\0\n\0\x62\0\x65\0\x61\0n\0s\0\0\0\n\0\0\0|\0\x31\0\x30\0\x30\0%\0 \0\x43\0\x61\0p\0u\0\x63\0\x61\0s\0,\0 \0H\0o\0n\0\x64\0u\0r\0\x61\0s\0.\0 \0\n\0P\0r\0o\0\x64\0u\0\x63\0t\0o\0r\0:\0 \0\x43\0O\0\x43\0\x41\0\x46\0\x43\0\x41\0L\0\n\0P\0r\0o\0v\0\x65\0\x65\0\x64\0o\0r\0:\0 \0\x43\0\x61\0\x66\0\x65\0 \0Z\0\0\0\x18\0\x62\0\x65\0\x61\0n\0S\0i\0z\0\x65\0_\0m\0i\0n\0\0\0\x2\0\0\0\0\0\0\0\x18\0\x62\0\x65\0\x61\0n\0S\0i\0z\0\x65\0_\0m\0\x61\0x\0\0\0\x2\0\0\0\0\0\0\0\x16\0\x62\0\x61\0t\0\x63\0h\0p\0r\0\x65\0\x66\0i\0x\0\0\0\n\0\0\0\xe\0\x43\0\x41\0P\0U\0\x43\0\x41\0S\0\0\0\xe\0\x62\0\x61\0t\0\x63\0h\0n\0r\0\0\0\x2\0\0\0\0\0\0\0\x14\0\x62\0\x61\0\x63\0k\0g\0r\0o\0u\0n\0\x64\0\0\0\0\xff\xff\xff\xff)"
 lastLoadedProfile=
 lastLoadedBackground=
 
@@ -535,8 +535,8 @@ BTname=BT
 Beep=0
 
 [Axis]
-xmin=-27.00103345000025
-xmax=902
+xmin=-30
+xmax=600
 ymax=250
 ymin=0
 zmax=25
@@ -690,15 +690,15 @@ alerts=false
 
 [ExtraEventButtons]
 buttonlistmaxlen=11
-extraeventstypes=0, 0, 1, 1
-extraeventsvalues=2.5, 4, 12, 10
-extraeventsactionstrings=, , , 
-extraeventsactions=0, 0, 0, 0
-extraeventsdescriptions=Set AIR to 15, Set AIR to 30, Set POWER to 110, Set POWER to 90
-extraeventsvisibility=1, 1, 1, 1
-extraeventslabels=F15, F30, P110, P90
-extraeventbuttoncolor=#00ff7f, #4be16e, #910000, #af0000
-extraeventbuttontextcolor=white, white, white, white
+extraeventstypes=0, 0, 1, 1, 1
+extraeventsvalues=2.5, 4, 12, 10, 11
+extraeventsactionstrings=, , , , 
+extraeventsactions=0, 0, 0, 0, 0
+extraeventsdescriptions=Set AIR to 15, Set AIR to 30, Set POWER to 110, Set POWER to 90, Set POWER to 110
+extraeventsvisibility=1, 1, 1, 1, 1
+extraeventslabels=F15, F30, P110, P90, P100
+extraeventbuttoncolor=#00ff7f, #4be16e, #910000, #af0000, #eb0000
+extraeventbuttontextcolor=white, white, white, white, white
 extraeventsbuttonsflags=0, 1, 1
 buttonpalette=@Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0), @Variant(\0\0\0\t\0\0\0\0)
 buttonpalettemaxlen=11, 14, 14, 14, 14, 14, 14, 14, 14, 14
@@ -742,10 +742,10 @@ quantifiercoarse=0, 0, 0, 0
 clusterEventsFlag=false
 
 [Batch]
-batchcounter=43
-batchsequence=24
+batchcounter=63
+batchsequence=9
 batchprefix=TOPACIO
-lastroastepoch=1582668057
+lastroastepoch=1583556009
 neverUpdateBatchCounter=false
 
 [ExtrasMoreInfo]
